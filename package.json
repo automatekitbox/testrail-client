@@ -1,5 +1,5 @@
 {
-  "name": "cucumber-testrail",
+  "name": "testrail-client",
   "version": "0.1.0",
   "description": "testrail api",
   "main": "index.js",
@@ -33,12 +33,13 @@
     "REST"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "author": "krisd",
   "license": "MIT",
-  "devDependencies": {
-    "javascript-obfuscator": "^2.9.4"
-  },
-  "dependencies": {}
+  "dependencies": {
+    "testrail-integration": "^0.2.4",
+    "chai": "4.2.0",
+    "mocha": "8.2.1"
+  }
 }
