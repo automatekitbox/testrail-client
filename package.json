@@ -1,0 +1,44 @@
+{
+  "name": "cucumber-testrail",
+  "version": "0.1.0",
+  "description": "testrail api",
+  "main": "index.js",
+  "keywords": [
+    "testrail",
+    "Typescript",
+    "Javascript",
+    "automation",
+    "testing",
+    "request",
+    "http",
+    "https",
+    "cucumberjs",
+    "restassured",
+    "rest api",
+    "api",
+    "node",
+    "npm",
+    "curl",
+    "automation",
+    "api automation",
+    "rest-assured",
+    "api",
+    "fixtures",
+    "cucumber-js",
+    "cucumber",
+    "axios",
+    "got",
+    "nodejs",
+    "HTTP",
+    "REST"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "krisd",
+  "license": "MIT",
+  "devDependencies": {
+    "javascript-obfuscator": "^2.9.4"
+  },
+  "dependencies": {}
+}
