@@ -1,10 +1,12 @@
 
 
 
-## Please use below one it supports both testrail api's and integration with other frameworks
+## Please use below one it supports both testrail api's and Cucumber integration with other frameworks
 
 ## https://www.npmjs.com/package/testrail-integration
 
+#TestRailClient
+#CucumberRailClient
 
 ## Integration of Cucumber and TestRail
 
